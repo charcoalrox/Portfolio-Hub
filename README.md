@@ -46,4 +46,4 @@ As a fresh grad a lot of my much larger projects are classwork that professors d
 I hope to show that I've got a pool of knowledge in a lot of coding languages and good practices. Along with GDBK, I've also made projects in Game Maker, Unreal Engine, and Godot with plans to learn new engines once I wrap up my current project. I've primarily worked in Python, HTML, CSS, Javascript, C and C++ and I'll keep updating this repo whenever I complete something big and cool enough to show off!<br>
 
 # What I'm Currently Working On 🍳:
-I've got plans to start working on a new Unreal Project soon but, now that I've graduated, I have to make sure I'm showing off what I've already done properly. One of my favorite projects I worked on was a search engine that could ethically scrape web pages and scan ingredients to output vegan cooking and baking recipes I searched for. It could blacklist recipes and then rank search results based on relevant keywords. I just need to find it, make sure the contents are well documented, and then put it here so that I can get to work elsewhere!
+A base project to let me make JRPG's in Godot
